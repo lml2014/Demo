@@ -1,10 +1,6 @@
 this is new text.
 add new file.
-
-add new file
-
-aaa    --bbbb
-bbbb
+aaa    --bbbb  --cccc
 
 测试内容 abdcd.
 
