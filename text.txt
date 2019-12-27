@@ -7,3 +7,5 @@ aaa    --bbbb  --cccc
 2019.1.7  use commit perty.
 
 2019.1.9  init project files.
+
+2019.12.27 add new ssh key.
